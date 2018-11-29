@@ -1,0 +1,5 @@
+1. Design Patterns in Javascript
+    https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+2. Example Observer Patterns
+    https://sourcemaking.com/design_patterns/observer
